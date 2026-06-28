@@ -1,0 +1,8 @@
+name = "cdn"
+main = "index.js"
+compatibility_date = "2025-06-01"
+
+# Uncomment if you want to serve static assets from a folder
+# [assets]
+# directory = "./public"
+# binding = "ASSETS"

@@ -1,0 +1,12 @@
+{
+  "name": "cdn",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "dev": "wrangler dev"
+  },
+  "dependencies": {
+    "hono": "^4.6.0"
+  }
+}
