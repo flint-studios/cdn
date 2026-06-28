@@ -1,1 +1,4 @@
 .venv
+bun.lock
+node_modules
+.wrangler
